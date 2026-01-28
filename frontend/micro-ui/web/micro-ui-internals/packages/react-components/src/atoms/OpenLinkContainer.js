@@ -10,7 +10,7 @@ const OpenLinkContainer = ({ img,}) => {
           className="city"
           id="topbar-logo" 
           crossOrigin="anonymous"
-          src={"https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png"}
+          src={"https://nmc.gov.in/assets/img/nmc_logo_Marathi.png"}
           alt="mSeva"
         />
       </div>
