@@ -23,7 +23,7 @@ const CHBMapView = () => {
           "city": "Delhi Cantt", "price": 9000, "state": "Delhi", "tenant": "pg.delhi",
           "manager": "Atul", "capacity": 250, "contact_number": "011-25695450",
           "community_hall_code": "MEHRAM_NAGAR_BARAT_GHAR", "community_hall_name": "Mehram Nagar Barat Ghar",
-          "image_url": "https://nugp-assets.s3.ap-south-1.amazonaws.com/nugp+asset/Banner+UPYOG+%281920x500%29B+%282%29.jpg"
+          "image_url": "https://nmc.gov.in/assets/admin/upload/silder/Nashik_Mix.png"
         }
       },
       {
@@ -42,7 +42,7 @@ const CHBMapView = () => {
           "city": "Delhi Cantt", "price": 8800, "state": "Delhi", "tenant": "pg.delhi",
           "manager": "Nikhil", "capacity": 200, "contact_number": "011-25695450",
           "community_hall_code": "MANGLAM_BARAT_GHAR", "community_hall_name": "Manglam Barat Ghar",
-          "image_url": "https://nugp-assets.s3.ap-south-1.amazonaws.com/nugp+asset/Banner+UPYOG+%281920x500%29B+%282%29.jpg"
+          "image_url": "https://nmc.gov.in/assets/admin/upload/silder/Nashik_Mix.png"
 
         }
       },
@@ -62,7 +62,7 @@ const CHBMapView = () => {
           "city": "Delhi Cantt", "price": 9300, "state": "Delhi", "tenant": "pg.delhi",
           "manager": "Kunal", "capacity": 350, "contact_number": "011-25695450",
           "community_hall_code": "ALANKAR_BARAT_GHAR", "community_hall_name": "Alankar Barat Ghar",
-          "image_url": "https://nugp-assets.s3.ap-south-1.amazonaws.com/nugp+asset/Banner+UPYOG+%281920x500%29B+%282%29.jpg"
+          "image_url": "https://nmc.gov.in/assets/admin/upload/silder/Nashik_Mix.png"
         }
       },
       {
@@ -81,7 +81,7 @@ const CHBMapView = () => {
           "city": "Delhi Cantt", "price": 9500, "state": "Delhi", "tenant": "pg.delhi",
           "manager": "Kunal", "capacity": 500, "contact_number": "011-25695450",
           "community_hall_code": "DUSSEHRA_GROUND_PART_II", "community_hall_name": "Dussehra Ground Part II",
-          "image_url": "https://nugp-assets.s3.ap-south-1.amazonaws.com/nugp+asset/Banner+UPYOG+%281920x500%29B+%282%29.jpg"
+          "image_url": "https://nmc.gov.in/assets/admin/upload/silder/Nashik_Mix.png"
         }
       },
       {
@@ -91,7 +91,7 @@ const CHBMapView = () => {
           "city": "Delhi Cantt", "price": 8900, "state": "Delhi", "tenant": "pg.delhi",
           "manager": "Sourabh", "capacity": 300, "contact_number": "011-25695450",
           "community_hall_code": "DAV_GROUND", "community_hall_name": "DAV Ground",
-          "image_url": "https://nugp-assets.s3.ap-south-1.amazonaws.com/nugp+asset/Banner+UPYOG+%281920x500%29B+%282%29.jpg"
+          "image_url": "https://nmc.gov.in/assets/admin/upload/silder/Nashik_Mix.png"
         }
       },
       {
@@ -121,7 +121,7 @@ const CHBMapView = () => {
           "city": "Mohali", "price": 9600, "state": "Punjab", "tenant": "pg.mohali",
           "manager": "Kavita Yadav", "capacity": 360, "contact_number": "9876512347",
           "community_hall_code": "Sector_54_Phase_2", "community_hall_name": "Sector 54 Phase 2", "community_hall_id":"1",
-          "image_url": "https://nugp-assets.s3.ap-south-1.amazonaws.com/nugp+asset/Banner+UPYOG+%281920x500%29B+%282%29.jpg"
+          "image_url": "https://nmc.gov.in/assets/admin/upload/silder/Nashik_Mix.png"
         }
       },
       {
@@ -140,7 +140,7 @@ const CHBMapView = () => {
           "city": "Mohali", "price": 9800, "state": "Punjab", "tenant": "pg.mohali",
           "manager": "Neha Gupta", "capacity": 390, "contact_number": "9876512345",
           "community_hall_code": "Sector_59_Phase_5", "community_hall_name": "Sector 59 Phase 5","community_hall_id":"3",
-          "image_url": "https://nugp-assets.s3.ap-south-1.amazonaws.com/nugp+asset/Banner+UPYOG+%281920x500%29B+%282%29.jpg"
+          "image_url": "https://nmc.gov.in/assets/admin/upload/silder/Nashik_Mix.png"
         }
       },
       {
@@ -159,7 +159,7 @@ const CHBMapView = () => {
           "city": "Mohali", "price": 11000, "state": "Punjab", "tenant": "pg.mohali",
           "manager": "Pooja Singh", "capacity": 450, "contact_number": "9876512343",
           "community_hall_code": "Sector_65_Phase_11", "community_hall_name": "Sector 65 Phase 11","community_hall_id":"5",
-          "image_url": "https://nugp-assets.s3.ap-south-1.amazonaws.com/nugp+asset/Banner+UPYOG+%281920x500%29B+%282%29.jpg"
+          "image_url": "https://nmc.gov.in/assets/admin/upload/silder/Nashik_Mix.png"
         }
       },
       {
@@ -169,7 +169,7 @@ const CHBMapView = () => {
           "city": "Mohali", "price": 9200, "state": "Punjab", "tenant": "pg.mohali",
           "manager": "Rohit Verma", "capacity": 320, "contact_number": "9876512342",
           "community_hall_code": "Sector_69", "community_hall_name": "Sector 69","community_hall_id":"6",
-          "image_url": "https://nugp-assets.s3.ap-south-1.amazonaws.com/nugp+asset/Banner+UPYOG+%281920x500%29B+%282%29.jpg"
+          "image_url": "https://nmc.gov.in/assets/admin/upload/silder/Nashik_Mix.png"
         }
       },
       {
@@ -179,7 +179,7 @@ const CHBMapView = () => {
           "city": "Mohali", "price": 9500, "state": "Punjab", "tenant": "pg.mohali",
           "manager": "Anjali Sharma", "capacity": 350, "contact_number": "9876512341",
           "community_hall_code": "Sector_70", "community_hall_name": "Sector 70","community_hall_id":"7",
-          "image_url": "https://nugp-assets.s3.ap-south-1.amazonaws.com/nugp+asset/Banner+UPYOG+%281920x500%29B+%282%29.jpg"
+          "image_url": "https://nmc.gov.in/assets/admin/upload/silder/Nashik_Mix.png"
         }
       },
       {
