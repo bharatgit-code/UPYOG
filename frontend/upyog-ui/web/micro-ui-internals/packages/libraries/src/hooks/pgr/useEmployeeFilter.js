@@ -10,9 +10,17 @@ const useEmployeeFilter = (tenantId, roles, complaintDetails,isActive) => {
       const searchResponse = await Digit.PGRService.employeeSearch(tenantId, roles,isActive );
 
       const serviceDefs = await Digit.MDMSService.getServiceDefs(tenantId, "PGR");
+
       const serviceCode = complaintDetails.service.serviceCode;
-      const service = serviceDefs?.find((def) => def.serviceCode === serviceCode);
+    
+      // const service = serviceDefs?.find((def) => def.serviceCode === serviceCode);
+      const service = serviceDefs?.find((def) => {
+
+  return def.serviceCode.toLowerCase().trim() === serviceCode.toLowerCase().trim();
+});
+   
       const department = service?.department;
+     
       const employees = searchResponse.Employees.filter((employee) =>
         employee.assignments.map((assignment) => assignment.department).includes(department)
       );
